@@ -191,5 +191,5 @@ class CeleryConfig:
     
     flush privileges; #刷新系统权限表
     ```
- 
+ 7.test
  
